@@ -1,0 +1,2 @@
+Given multiple numbers should return the sum of all numbers
+Given new line as a delimiter should return sum of all numbers e.g. the following input is ok:  “1\n2,3”  (will equal 6)
