@@ -1,0 +1,5 @@
+1st Task
+Create a simple String calculator with a method int Add(string numbers) 
+Acceptance Criteria
+Given an empty string should return zero
+Given a single number should return the number
